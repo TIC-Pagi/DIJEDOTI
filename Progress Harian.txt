@@ -1,0 +1,58 @@
+=======================
+INFORMASI UMUM
+
+Nama kelompok: DIJEDOTI
+Judul Topik: Golongan Darah
+Alamat Github: https://github.com/DIJEDOTI/ScrumMaster-ToniAndika
+Alamat Trello: https://trello.com/b/7JaNTNVa/presentasi-tkppl
+Anggota 1:
+	Nama: Toni Andika
+	NIM: 12.111.2856
+Anggota 2:
+	Nama: Dita Maria Panjaitan
+	NIM: 12.111.3240
+Anggota 3:
+	Nama: Jonatan Ediputra Sinaga 
+	NIM: 12.111.3614
+=======================
+
+
+SPRINT
+------
+Sprint 1: 
+26/5 - 29/5
+Scrummaster: Toni Andika (12.111.2856)
+
+Sprint 2:
+30/5 - 3/6
+Dita Maria Panjaitan (12.111.3240)
+
+
+Sprint 3: 
+4/6 - 8/6
+Jonatan Edi Putra Sinaga (12.111.3614)
+
+
+Progress Harian (Diupdate tiap hari)
+------------------------------------
+
+SPRINT
+------
+Sprint 1: 
+26/5 - 29/5
+Scrummaster: Toni Andika (12.111.2856)
+
+
+26/5 
+Daily Scrum
+(Toni Andika)
+1.  Hari ini saya melakukan konfigurasi github, node.js skalian buat account trello dan edit profil github
+2. Saya ada kendala dalam penginstalan npm di laptop (sering terjadi error)
+
+(Dita Maria Panjaitan):
+1. Hari ini saya melakukan konfigurasi github, node.js skalian buat account trello dan edit profil github
+2. Saya ada kendala dalam penginstalan npm di laptop (sering terjadi error)
+
+(Jonatan Edi Putra Sinaga):
+1. Hari ini saya melakukan konfigurasi github, daftar account trello, clone link repository github
+2. Saya ada kendala dalam konfigurasi github
