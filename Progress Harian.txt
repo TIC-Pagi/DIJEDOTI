@@ -132,3 +132,19 @@ Daily Scrum)
 1.semalam saya mencari contoh kasus Rhesus
 2.hari ini saya masih mencari contoh kasus Rhesus
 3.Saya ada kendala dalam mencari contoh kasus Rhesus
+
+31/5
+Daily scrum
+(Dita Maria Panjaitan)
+1.semalam saya membuat card untuk sprint
+2.hari ini saya memindahkan card ke onproggres dan mencari tentang transfusi darah
+
+(Toni Andika):
+1.semalam saya desain slide 1
+2.hari ini saya desain slide 2
+3.saya ada kendala dibagian index.jadi, agak kurang rapi jadi agak sulit dijalankan
+
+(Jonatan Edi Putra Sinaga):
+1.semalam saya masih mencari contoh khasus Rhesus
+2.hari ini saya menggabungkan semua bahan tentang kasus rhesus
+3.saya tidak ada kendala
