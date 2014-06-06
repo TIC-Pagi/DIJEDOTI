@@ -4,9 +4,9 @@
 
 slide_width = 640px
 slide_height = 480px
-slide_background = #eaeaea
+slide_background = #ffffff
 
-slide_transition_length = .6s
+slide_transition_length = 1s
 slide_transition_easing = ease
 slide_transition_rotate_y = 10deg
 // Safari bugs out on 3d transform-origins, so we have to fake it
@@ -139,8 +139,9 @@ article
 .bespoke-progress-bar
   transition: width .6s ease
   position: absolute
-  height: 100%
-  background: #0089f3
+  height: 20000%
+  background: #09f
+  z-index:-1
   border-radius: 0 4px 4px 0
 
 // bespoke-state styles
@@ -161,6 +162,7 @@ body
   font-family: helvetica, arial, sans-serif
   font-size: 18px
   color: #404040
+  background: #CFCFCF
 
 h1
   font-size: 72px
@@ -196,3 +198,5 @@ p
 a
   color: #0089f3
   text-decoration: none
+article
+   z-index:9999
